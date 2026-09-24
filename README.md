@@ -18,6 +18,10 @@ The system can also apply exact filters for:
 
 Results are ranked and displayed in a Streamlit app with the component ID, description, category, voltage range, material, size, price, keywords, and final reranking score.
 
+## App Screenshot
+
+![Smart Component Search app](assets/app-screenshot.webp)
+
 ## Features
 
 - Semantic search with local embeddings
