@@ -1,0 +1,1241 @@
+{
+  "timestamp_utc": "2026-09-24T22:02:14.122503+00:00",
+  "total_queries": 20,
+  "summary": {
+    "vector": {
+      "queries": 20,
+      "top_1_successes": 20,
+      "top_3_successes": 20,
+      "top_1_accuracy_percent": 100.0,
+      "top_3_accuracy_percent": 100.0
+    },
+    "keyword": {
+      "queries": 20,
+      "top_1_successes": 20,
+      "top_3_successes": 20,
+      "top_1_accuracy_percent": 100.0,
+      "top_3_accuracy_percent": 100.0
+    },
+    "hybrid": {
+      "queries": 20,
+      "top_1_successes": 20,
+      "top_3_successes": 20,
+      "top_1_accuracy_percent": 100.0,
+      "top_3_accuracy_percent": 100.0
+    },
+    "reranked": {
+      "queries": 20,
+      "top_1_successes": 20,
+      "top_3_successes": 20,
+      "top_1_accuracy_percent": 100.0,
+      "top_3_accuracy_percent": 100.0
+    }
+  },
+  "results": [
+    {
+      "id": 1,
+      "query": "cheap temperature sensor",
+      "filters": {
+        "category": "sensor",
+        "max_cost": 3,
+        "target_voltage": 5
+      },
+      "relevant_ids": [
+        "COMP-0037",
+        "COMP-0042",
+        "COMP-0121"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0121",
+            "COMP-0037",
+            "COMP-0042",
+            "COMP-0046",
+            "COMP-0041"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0121",
+            "COMP-0037",
+            "COMP-0042",
+            "COMP-0041",
+            "COMP-0045"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0121",
+            "COMP-0037",
+            "COMP-0042",
+            "COMP-0041",
+            "COMP-0046"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0037",
+            "COMP-0121",
+            "COMP-0042",
+            "COMP-0041",
+            "COMP-0045"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 2,
+      "query": "humidity sensor",
+      "filters": {
+        "category": "sensor",
+        "max_cost": null,
+        "target_voltage": 5
+      },
+      "relevant_ids": [
+        "COMP-0038",
+        "COMP-0043",
+        "COMP-0048"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0043",
+            "COMP-0048",
+            "COMP-0038",
+            "COMP-0037",
+            "COMP-0042"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0038",
+            "COMP-0043",
+            "COMP-0048",
+            "COMP-0037",
+            "COMP-0041"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0043",
+            "COMP-0038",
+            "COMP-0048",
+            "COMP-0037",
+            "COMP-0041"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0043",
+            "COMP-0038",
+            "COMP-0048",
+            "COMP-0037",
+            "COMP-0041"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 3,
+      "query": "light sensor",
+      "filters": {
+        "category": "sensor",
+        "max_cost": null,
+        "target_voltage": 5
+      },
+      "relevant_ids": [
+        "COMP-0039",
+        "COMP-0044"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0044",
+            "COMP-0039",
+            "COMP-0048",
+            "COMP-0037",
+            "COMP-0121"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0039",
+            "COMP-0044",
+            "COMP-0037",
+            "COMP-0041",
+            "COMP-0045"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0044",
+            "COMP-0039",
+            "COMP-0037",
+            "COMP-0041",
+            "COMP-0121"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0039",
+            "COMP-0044",
+            "COMP-0037",
+            "COMP-0041",
+            "COMP-0121"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 4,
+      "query": "distance sensor",
+      "filters": {
+        "category": "sensor",
+        "max_cost": null,
+        "target_voltage": 5
+      },
+      "relevant_ids": [
+        "COMP-0040",
+        "COMP-0045"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0045",
+            "COMP-0040",
+            "COMP-0039",
+            "COMP-0041",
+            "COMP-0037"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0045",
+            "COMP-0040",
+            "COMP-0037",
+            "COMP-0041",
+            "COMP-0121"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0045",
+            "COMP-0040",
+            "COMP-0037",
+            "COMP-0041",
+            "COMP-0039"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0045",
+            "COMP-0040",
+            "COMP-0037",
+            "COMP-0041",
+            "COMP-0039"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 5,
+      "query": "motion sensor",
+      "filters": {
+        "category": "sensor",
+        "max_cost": null,
+        "target_voltage": 5
+      },
+      "relevant_ids": [
+        "COMP-0041",
+        "COMP-0046"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0046",
+            "COMP-0041",
+            "COMP-0048",
+            "COMP-0043",
+            "COMP-0044"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0041",
+            "COMP-0046",
+            "COMP-0037",
+            "COMP-0045",
+            "COMP-0121"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0046",
+            "COMP-0041",
+            "COMP-0037",
+            "COMP-0043",
+            "COMP-0045"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0041",
+            "COMP-0046",
+            "COMP-0037",
+            "COMP-0043",
+            "COMP-0045"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 6,
+      "query": "Wi-Fi microcontroller",
+      "filters": {
+        "category": "microcontroller",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0051",
+        "COMP-0055",
+        "COMP-0059"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0055",
+            "COMP-0059",
+            "COMP-0051",
+            "COMP-0049",
+            "COMP-0060"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0055",
+            "COMP-0059",
+            "COMP-0051",
+            "COMP-0049",
+            "COMP-0052"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0055",
+            "COMP-0059",
+            "COMP-0051",
+            "COMP-0049",
+            "COMP-0052"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0055",
+            "COMP-0059",
+            "COMP-0051",
+            "COMP-0049",
+            "COMP-0052"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 7,
+      "query": "low power microcontroller",
+      "filters": {
+        "category": "microcontroller",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0052",
+        "COMP-0056",
+        "COMP-0060"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0056",
+            "COMP-0052",
+            "COMP-0060",
+            "COMP-0049",
+            "COMP-0057"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0052",
+            "COMP-0056",
+            "COMP-0060",
+            "COMP-0049",
+            "COMP-0055"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0056",
+            "COMP-0052",
+            "COMP-0060",
+            "COMP-0049",
+            "COMP-0055"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0052",
+            "COMP-0056",
+            "COMP-0060",
+            "COMP-0049",
+            "COMP-0055"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 8,
+      "query": "NPN transistor",
+      "filters": {
+        "category": "transistor",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0061",
+        "COMP-0065",
+        "COMP-0069"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0061",
+            "COMP-0065",
+            "COMP-0069",
+            "COMP-0070",
+            "COMP-0066"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0061",
+            "COMP-0065",
+            "COMP-0069",
+            "COMP-0070",
+            "COMP-0062"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0061",
+            "COMP-0065",
+            "COMP-0069",
+            "COMP-0070",
+            "COMP-0066"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0061",
+            "COMP-0065",
+            "COMP-0069",
+            "COMP-0070",
+            "COMP-0062"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 9,
+      "query": "N-channel MOSFET",
+      "filters": {
+        "category": "transistor",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0063",
+        "COMP-0067",
+        "COMP-0071"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0067",
+            "COMP-0063",
+            "COMP-0071",
+            "COMP-0072",
+            "COMP-0064"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0067",
+            "COMP-0071",
+            "COMP-0063",
+            "COMP-0064",
+            "COMP-0068"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0067",
+            "COMP-0063",
+            "COMP-0071",
+            "COMP-0064",
+            "COMP-0072"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0067",
+            "COMP-0071",
+            "COMP-0063",
+            "COMP-0064",
+            "COMP-0072"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 10,
+      "query": "5V relay",
+      "filters": {
+        "category": "relay",
+        "max_cost": null,
+        "target_voltage": 5
+      },
+      "relevant_ids": [
+        "COMP-0073",
+        "COMP-0076",
+        "COMP-0079",
+        "COMP-0082"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0073",
+            "COMP-0076",
+            "COMP-0082",
+            "COMP-0079",
+            "COMP-0077"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0073",
+            "COMP-0076",
+            "COMP-0079",
+            "COMP-0082",
+            "COMP-0074"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0073",
+            "COMP-0076",
+            "COMP-0082",
+            "COMP-0079",
+            "COMP-0077"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0073",
+            "COMP-0076",
+            "COMP-0082",
+            "COMP-0079",
+            "COMP-0077"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 11,
+      "query": "solid state relay",
+      "filters": {
+        "category": "relay",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0075",
+        "COMP-0078",
+        "COMP-0081",
+        "COMP-0084"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0075",
+            "COMP-0081",
+            "COMP-0078",
+            "COMP-0084",
+            "COMP-0080"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0075",
+            "COMP-0078",
+            "COMP-0081",
+            "COMP-0084",
+            "COMP-0073"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0075",
+            "COMP-0081",
+            "COMP-0078",
+            "COMP-0084",
+            "COMP-0073"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0075",
+            "COMP-0081",
+            "COMP-0078",
+            "COMP-0084",
+            "COMP-0073"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 12,
+      "query": "servo motor",
+      "filters": {
+        "category": "motor",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0088",
+        "COMP-0092",
+        "COMP-0096"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0088",
+            "COMP-0092",
+            "COMP-0096",
+            "COMP-0091",
+            "COMP-0085"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0088",
+            "COMP-0092",
+            "COMP-0096",
+            "COMP-0085",
+            "COMP-0091"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0088",
+            "COMP-0092",
+            "COMP-0096",
+            "COMP-0091",
+            "COMP-0085"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0088",
+            "COMP-0092",
+            "COMP-0096",
+            "COMP-0091",
+            "COMP-0085"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 13,
+      "query": "stepper motor",
+      "filters": {
+        "category": "motor",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0087",
+        "COMP-0091",
+        "COMP-0095"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0091",
+            "COMP-0087",
+            "COMP-0095",
+            "COMP-0094",
+            "COMP-0085"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0091",
+            "COMP-0095",
+            "COMP-0087",
+            "COMP-0085",
+            "COMP-0088"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0091",
+            "COMP-0087",
+            "COMP-0095",
+            "COMP-0085",
+            "COMP-0094"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0091",
+            "COMP-0095",
+            "COMP-0087",
+            "COMP-0085",
+            "COMP-0094"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 14,
+      "query": "push button switch",
+      "filters": {
+        "category": "switch",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0097",
+        "COMP-0101",
+        "COMP-0105"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0105",
+            "COMP-0097",
+            "COMP-0101",
+            "COMP-0102",
+            "COMP-0106"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0097",
+            "COMP-0101",
+            "COMP-0105",
+            "COMP-0100",
+            "COMP-0103"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0097",
+            "COMP-0105",
+            "COMP-0101",
+            "COMP-0106",
+            "COMP-0098"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0097",
+            "COMP-0105",
+            "COMP-0101",
+            "COMP-0106",
+            "COMP-0098"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 15,
+      "query": "limit switch",
+      "filters": {
+        "category": "switch",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0100",
+        "COMP-0104",
+        "COMP-0108"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0100",
+            "COMP-0108",
+            "COMP-0104",
+            "COMP-0097",
+            "COMP-0099"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0100",
+            "COMP-0104",
+            "COMP-0108",
+            "COMP-0097",
+            "COMP-0103"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0100",
+            "COMP-0108",
+            "COMP-0104",
+            "COMP-0097",
+            "COMP-0103"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0100",
+            "COMP-0104",
+            "COMP-0108",
+            "COMP-0097",
+            "COMP-0103"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 16,
+      "query": "USB connector",
+      "filters": {
+        "category": "connector",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0112",
+        "COMP-0116",
+        "COMP-0120"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0120",
+            "COMP-0112",
+            "COMP-0116",
+            "COMP-0111",
+            "COMP-0115"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0112",
+            "COMP-0116",
+            "COMP-0120",
+            "COMP-0115",
+            "COMP-0119"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0112",
+            "COMP-0120",
+            "COMP-0116",
+            "COMP-0115",
+            "COMP-0111"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0112",
+            "COMP-0120",
+            "COMP-0116",
+            "COMP-0115",
+            "COMP-0111"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 17,
+      "query": "JST connector",
+      "filters": {
+        "category": "connector",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0111",
+        "COMP-0115",
+        "COMP-0119"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0111",
+            "COMP-0115",
+            "COMP-0119",
+            "COMP-0117",
+            "COMP-0112"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0115",
+            "COMP-0119",
+            "COMP-0111",
+            "COMP-0112",
+            "COMP-0116"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0115",
+            "COMP-0111",
+            "COMP-0119",
+            "COMP-0112",
+            "COMP-0116"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0115",
+            "COMP-0111",
+            "COMP-0119",
+            "COMP-0112",
+            "COMP-0116"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 18,
+      "query": "metal film resistor",
+      "filters": {
+        "category": "resistor",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0002",
+        "COMP-0004",
+        "COMP-0006",
+        "COMP-0008",
+        "COMP-0010",
+        "COMP-0012"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0010",
+            "COMP-0012",
+            "COMP-0006",
+            "COMP-0004",
+            "COMP-0002"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0004",
+            "COMP-0010",
+            "COMP-0002",
+            "COMP-0008",
+            "COMP-0006"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0010",
+            "COMP-0004",
+            "COMP-0012",
+            "COMP-0006",
+            "COMP-0002"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0010",
+            "COMP-0004",
+            "COMP-0012",
+            "COMP-0002",
+            "COMP-0006"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 19,
+      "query": "electrolytic capacitor",
+      "filters": {
+        "category": "capacitor",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0014",
+        "COMP-0016",
+        "COMP-0018",
+        "COMP-0020",
+        "COMP-0022",
+        "COMP-0024"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0022",
+            "COMP-0016",
+            "COMP-0024",
+            "COMP-0014",
+            "COMP-0020"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0016",
+            "COMP-0022",
+            "COMP-0014",
+            "COMP-0020",
+            "COMP-0018"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0022",
+            "COMP-0016",
+            "COMP-0014",
+            "COMP-0024",
+            "COMP-0020"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0022",
+            "COMP-0016",
+            "COMP-0014",
+            "COMP-0024",
+            "COMP-0020"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    },
+    {
+      "id": 20,
+      "query": "blue LED",
+      "filters": {
+        "category": "led",
+        "max_cost": null,
+        "target_voltage": null
+      },
+      "relevant_ids": [
+        "COMP-0027",
+        "COMP-0031",
+        "COMP-0035"
+      ],
+      "methods": {
+        "vector": {
+          "top_results": [
+            "COMP-0031",
+            "COMP-0035",
+            "COMP-0027",
+            "COMP-0028",
+            "COMP-0036"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "keyword": {
+          "top_results": [
+            "COMP-0031",
+            "COMP-0035",
+            "COMP-0027",
+            "COMP-0025",
+            "COMP-0028"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "hybrid": {
+          "top_results": [
+            "COMP-0031",
+            "COMP-0035",
+            "COMP-0027",
+            "COMP-0028",
+            "COMP-0025"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        },
+        "reranked": {
+          "top_results": [
+            "COMP-0031",
+            "COMP-0035",
+            "COMP-0027",
+            "COMP-0028",
+            "COMP-0025"
+          ],
+          "top_1_success": true,
+          "top_3_success": true
+        }
+      }
+    }
+  ]
+}

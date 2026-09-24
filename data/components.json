@@ -1,0 +1,2422 @@
+[
+  {
+    "id": "COMP-0001",
+    "name": "Carbon Film Resistor Model 1",
+    "category": "resistor",
+    "description": "Carbon Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "carbon film",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0001",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0002",
+    "name": "Metal Film Resistor Model 2",
+    "category": "resistor",
+    "description": "Metal Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "metal film",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0002",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0003",
+    "name": "Carbon Film Resistor Model 3",
+    "category": "resistor",
+    "description": "Carbon Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "carbon film",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.12,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0003",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0004",
+    "name": "Metal Film Resistor Model 4",
+    "category": "resistor",
+    "description": "Metal Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "metal film",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0004",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0005",
+    "name": "Carbon Film Resistor Model 5",
+    "category": "resistor",
+    "description": "Carbon Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "carbon film",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0005",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0006",
+    "name": "Metal Film Resistor Model 6",
+    "category": "resistor",
+    "description": "Metal Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "metal film",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.12,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0006",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0007",
+    "name": "Carbon Film Resistor Model 7",
+    "category": "resistor",
+    "description": "Carbon Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "carbon film",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0007",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0008",
+    "name": "Metal Film Resistor Model 8",
+    "category": "resistor",
+    "description": "Metal Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "metal film",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0008",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0009",
+    "name": "Carbon Film Resistor Model 9",
+    "category": "resistor",
+    "description": "Carbon Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "carbon film",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.12,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0009",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0010",
+    "name": "Metal Film Resistor Model 10",
+    "category": "resistor",
+    "description": "Metal Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "metal film",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0010",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0011",
+    "name": "Carbon Film Resistor Model 11",
+    "category": "resistor",
+    "description": "Carbon Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "carbon film",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0011",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0012",
+    "name": "Metal Film Resistor Model 12",
+    "category": "resistor",
+    "description": "Metal Film Resistor designed for general electronics and engineering projects. Suitable for applications related to resistor, current limiting, voltage divider.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 250,
+    "material": "metal film",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.12,
+    "keywords": [
+      "resistor",
+      "current limiting",
+      "voltage divider",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0012",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0013",
+    "name": "Ceramic Capacitor Model 1",
+    "category": "capacitor",
+    "description": "Ceramic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "ceramic",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0013",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0014",
+    "name": "Electrolytic Capacitor Model 2",
+    "category": "capacitor",
+    "description": "Electrolytic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "aluminum",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0014",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0015",
+    "name": "Ceramic Capacitor Model 3",
+    "category": "capacitor",
+    "description": "Ceramic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "ceramic",
+    "size_mm": 8,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0015",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0016",
+    "name": "Electrolytic Capacitor Model 4",
+    "category": "capacitor",
+    "description": "Electrolytic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "aluminum",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0016",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0017",
+    "name": "Ceramic Capacitor Model 5",
+    "category": "capacitor",
+    "description": "Ceramic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "ceramic",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0017",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0018",
+    "name": "Electrolytic Capacitor Model 6",
+    "category": "capacitor",
+    "description": "Electrolytic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "aluminum",
+    "size_mm": 8,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0018",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0019",
+    "name": "Ceramic Capacitor Model 7",
+    "category": "capacitor",
+    "description": "Ceramic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "ceramic",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0019",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0020",
+    "name": "Electrolytic Capacitor Model 8",
+    "category": "capacitor",
+    "description": "Electrolytic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "aluminum",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0020",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0021",
+    "name": "Ceramic Capacitor Model 9",
+    "category": "capacitor",
+    "description": "Ceramic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "ceramic",
+    "size_mm": 8,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0021",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0022",
+    "name": "Electrolytic Capacitor Model 10",
+    "category": "capacitor",
+    "description": "Electrolytic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "aluminum",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.08,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0022",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0023",
+    "name": "Ceramic Capacitor Model 11",
+    "category": "capacitor",
+    "description": "Ceramic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "ceramic",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0023",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0024",
+    "name": "Electrolytic Capacitor Model 12",
+    "category": "capacitor",
+    "description": "Electrolytic Capacitor designed for general electronics and engineering projects. Suitable for applications related to capacitor, filtering, energy storage.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 50,
+    "material": "aluminum",
+    "size_mm": 8,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "capacitor",
+      "filtering",
+      "energy storage",
+      "passive"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0024",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0025",
+    "name": "Red LED Model 1",
+    "category": "led",
+    "description": "Red LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0025",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0026",
+    "name": "Green LED Model 2",
+    "category": "led",
+    "description": "Green LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0026",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0027",
+    "name": "Blue LED Model 3",
+    "category": "led",
+    "description": "Blue LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0027",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0028",
+    "name": "White LED Model 4",
+    "category": "led",
+    "description": "White LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0028",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0029",
+    "name": "Red LED Model 5",
+    "category": "led",
+    "description": "Red LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0029",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0030",
+    "name": "Green LED Model 6",
+    "category": "led",
+    "description": "Green LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0030",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0031",
+    "name": "Blue LED Model 7",
+    "category": "led",
+    "description": "Blue LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0031",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0032",
+    "name": "White LED Model 8",
+    "category": "led",
+    "description": "White LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0032",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0033",
+    "name": "Red LED Model 9",
+    "category": "led",
+    "description": "Red LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0033",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0034",
+    "name": "Green LED Model 10",
+    "category": "led",
+    "description": "Green LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.05,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0034",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0035",
+    "name": "Blue LED Model 11",
+    "category": "led",
+    "description": "Blue LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 3,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0035",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0036",
+    "name": "White LED Model 12",
+    "category": "led",
+    "description": "White LED designed for general electronics and engineering projects. Suitable for applications related to led, light, indicator.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 3.4,
+    "material": "semiconductor",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.15,
+    "keywords": [
+      "led",
+      "light",
+      "indicator",
+      "diode"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0036",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0037",
+    "name": "Temperature Sensor Model 1",
+    "category": "sensor",
+    "description": "Temperature Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "semiconductor",
+    "size_mm": 10,
+    "estimated_cost_usd": 1.5,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0037",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0038",
+    "name": "Humidity Sensor Model 2",
+    "category": "sensor",
+    "description": "Humidity Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 2.5,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0038",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0039",
+    "name": "Light Sensor Model 3",
+    "category": "sensor",
+    "description": "Light Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "semiconductor",
+    "size_mm": 20,
+    "estimated_cost_usd": 4.0,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0039",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0040",
+    "name": "Distance Sensor Model 4",
+    "category": "sensor",
+    "description": "Distance Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "plastic",
+    "size_mm": 25,
+    "estimated_cost_usd": 6.0,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0040",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0041",
+    "name": "Motion Sensor Model 5",
+    "category": "sensor",
+    "description": "Motion Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "semiconductor",
+    "size_mm": 10,
+    "estimated_cost_usd": 1.5,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0041",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0042",
+    "name": "Temperature Sensor Model 6",
+    "category": "sensor",
+    "description": "Temperature Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 2.5,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0042",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0043",
+    "name": "Humidity Sensor Model 7",
+    "category": "sensor",
+    "description": "Humidity Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "semiconductor",
+    "size_mm": 20,
+    "estimated_cost_usd": 4.0,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0043",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0044",
+    "name": "Light Sensor Model 8",
+    "category": "sensor",
+    "description": "Light Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "plastic",
+    "size_mm": 25,
+    "estimated_cost_usd": 6.0,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0044",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0045",
+    "name": "Distance Sensor Model 9",
+    "category": "sensor",
+    "description": "Distance Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "semiconductor",
+    "size_mm": 10,
+    "estimated_cost_usd": 1.5,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0045",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0046",
+    "name": "Motion Sensor Model 10",
+    "category": "sensor",
+    "description": "Motion Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 2.5,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0046",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0047",
+    "name": "Temperature Sensor Model 11",
+    "category": "sensor",
+    "description": "Temperature Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "semiconductor",
+    "size_mm": 20,
+    "estimated_cost_usd": 4.0,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0047",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0048",
+    "name": "Humidity Sensor Model 12",
+    "category": "sensor",
+    "description": "Humidity Sensor designed for general electronics and engineering projects. Suitable for applications related to sensor, measurement, input.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5,
+    "material": "plastic",
+    "size_mm": 25,
+    "estimated_cost_usd": 6.0,
+    "keywords": [
+      "sensor",
+      "measurement",
+      "input",
+      "electronics"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0048",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0049",
+    "name": "8-bit Microcontroller Model 1",
+    "category": "microcontroller",
+    "description": "8-bit Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 7,
+    "estimated_cost_usd": 2.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0049",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0050",
+    "name": "32-bit Microcontroller Model 2",
+    "category": "microcontroller",
+    "description": "32-bit Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 4.5,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0050",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0051",
+    "name": "Wi-Fi Microcontroller Model 3",
+    "category": "microcontroller",
+    "description": "Wi-Fi Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 15,
+    "estimated_cost_usd": 7.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0051",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0052",
+    "name": "Low-Power Microcontroller Model 4",
+    "category": "microcontroller",
+    "description": "Low-Power Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 7,
+    "estimated_cost_usd": 2.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0052",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0053",
+    "name": "8-bit Microcontroller Model 5",
+    "category": "microcontroller",
+    "description": "8-bit Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 4.5,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0053",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0054",
+    "name": "32-bit Microcontroller Model 6",
+    "category": "microcontroller",
+    "description": "32-bit Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 15,
+    "estimated_cost_usd": 7.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0054",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0055",
+    "name": "Wi-Fi Microcontroller Model 7",
+    "category": "microcontroller",
+    "description": "Wi-Fi Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 7,
+    "estimated_cost_usd": 2.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0055",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0056",
+    "name": "Low-Power Microcontroller Model 8",
+    "category": "microcontroller",
+    "description": "Low-Power Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 4.5,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0056",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0057",
+    "name": "8-bit Microcontroller Model 9",
+    "category": "microcontroller",
+    "description": "8-bit Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 15,
+    "estimated_cost_usd": 7.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0057",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0058",
+    "name": "32-bit Microcontroller Model 10",
+    "category": "microcontroller",
+    "description": "32-bit Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 7,
+    "estimated_cost_usd": 2.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0058",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0059",
+    "name": "Wi-Fi Microcontroller Model 11",
+    "category": "microcontroller",
+    "description": "Wi-Fi Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 4.5,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0059",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0060",
+    "name": "Low-Power Microcontroller Model 12",
+    "category": "microcontroller",
+    "description": "Low-Power Microcontroller designed for general electronics and engineering projects. Suitable for applications related to microcontroller, processor, embedded.",
+    "voltage_min_v": 1.8,
+    "voltage_max_v": 5,
+    "material": "silicon",
+    "size_mm": 15,
+    "estimated_cost_usd": 7.0,
+    "keywords": [
+      "microcontroller",
+      "processor",
+      "embedded",
+      "programmable"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0060",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0061",
+    "name": "NPN Transistor Model 1",
+    "category": "transistor",
+    "description": "NPN Transistor designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 4,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0061",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0062",
+    "name": "PNP Transistor Model 2",
+    "category": "transistor",
+    "description": "PNP Transistor designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0062",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0063",
+    "name": "N-Channel MOSFET Model 3",
+    "category": "transistor",
+    "description": "N-Channel MOSFET designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.6,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0063",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0064",
+    "name": "P-Channel MOSFET Model 4",
+    "category": "transistor",
+    "description": "P-Channel MOSFET designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 4,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0064",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0065",
+    "name": "NPN Transistor Model 5",
+    "category": "transistor",
+    "description": "NPN Transistor designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0065",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0066",
+    "name": "PNP Transistor Model 6",
+    "category": "transistor",
+    "description": "PNP Transistor designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.6,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0066",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0067",
+    "name": "N-Channel MOSFET Model 7",
+    "category": "transistor",
+    "description": "N-Channel MOSFET designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 4,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0067",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0068",
+    "name": "P-Channel MOSFET Model 8",
+    "category": "transistor",
+    "description": "P-Channel MOSFET designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0068",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0069",
+    "name": "NPN Transistor Model 9",
+    "category": "transistor",
+    "description": "NPN Transistor designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.6,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0069",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0070",
+    "name": "PNP Transistor Model 10",
+    "category": "transistor",
+    "description": "PNP Transistor designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 4,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0070",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0071",
+    "name": "N-Channel MOSFET Model 11",
+    "category": "transistor",
+    "description": "N-Channel MOSFET designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 6,
+    "estimated_cost_usd": 0.25,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0071",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0072",
+    "name": "P-Channel MOSFET Model 12",
+    "category": "transistor",
+    "description": "P-Channel MOSFET designed for general electronics and engineering projects. Suitable for applications related to transistor, switching, amplifier.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 60,
+    "material": "silicon",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.6,
+    "keywords": [
+      "transistor",
+      "switching",
+      "amplifier",
+      "semiconductor"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0072",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0073",
+    "name": "5V Relay Model 1",
+    "category": "relay",
+    "description": "5V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.5,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0073",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0074",
+    "name": "12V Relay Model 2",
+    "category": "relay",
+    "description": "12V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 20,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0074",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0075",
+    "name": "Solid State Relay Model 3",
+    "category": "relay",
+    "description": "Solid State Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 30,
+    "estimated_cost_usd": 5.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0075",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0076",
+    "name": "5V Relay Model 4",
+    "category": "relay",
+    "description": "5V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.5,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0076",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0077",
+    "name": "12V Relay Model 5",
+    "category": "relay",
+    "description": "12V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 20,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0077",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0078",
+    "name": "Solid State Relay Model 6",
+    "category": "relay",
+    "description": "Solid State Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 30,
+    "estimated_cost_usd": 5.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0078",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0079",
+    "name": "5V Relay Model 7",
+    "category": "relay",
+    "description": "5V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.5,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0079",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0080",
+    "name": "12V Relay Model 8",
+    "category": "relay",
+    "description": "12V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 20,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0080",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0081",
+    "name": "Solid State Relay Model 9",
+    "category": "relay",
+    "description": "Solid State Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 30,
+    "estimated_cost_usd": 5.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0081",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0082",
+    "name": "5V Relay Model 10",
+    "category": "relay",
+    "description": "5V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.5,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0082",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0083",
+    "name": "12V Relay Model 11",
+    "category": "relay",
+    "description": "12V Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 20,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0083",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0084",
+    "name": "Solid State Relay Model 12",
+    "category": "relay",
+    "description": "Solid State Relay designed for general electronics and engineering projects. Suitable for applications related to relay, switch, control.",
+    "voltage_min_v": 5,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 30,
+    "estimated_cost_usd": 5.0,
+    "keywords": [
+      "relay",
+      "switch",
+      "control",
+      "load"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0084",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0085",
+    "name": "DC Motor Model 1",
+    "category": "motor",
+    "description": "DC Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "steel",
+    "size_mm": 20,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0085",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0086",
+    "name": "Gear Motor Model 2",
+    "category": "motor",
+    "description": "Gear Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 30,
+    "estimated_cost_usd": 6.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0086",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0087",
+    "name": "Stepper Motor Model 3",
+    "category": "motor",
+    "description": "Stepper Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 40,
+    "estimated_cost_usd": 12.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0087",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0088",
+    "name": "Servo Motor Model 4",
+    "category": "motor",
+    "description": "Servo Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "steel",
+    "size_mm": 50,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0088",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0089",
+    "name": "DC Motor Model 5",
+    "category": "motor",
+    "description": "DC Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 20,
+    "estimated_cost_usd": 6.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0089",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0090",
+    "name": "Gear Motor Model 6",
+    "category": "motor",
+    "description": "Gear Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 30,
+    "estimated_cost_usd": 12.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0090",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0091",
+    "name": "Stepper Motor Model 7",
+    "category": "motor",
+    "description": "Stepper Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "steel",
+    "size_mm": 40,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0091",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0092",
+    "name": "Servo Motor Model 8",
+    "category": "motor",
+    "description": "Servo Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 50,
+    "estimated_cost_usd": 6.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0092",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0093",
+    "name": "DC Motor Model 9",
+    "category": "motor",
+    "description": "DC Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 20,
+    "estimated_cost_usd": 12.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0093",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0094",
+    "name": "Gear Motor Model 10",
+    "category": "motor",
+    "description": "Gear Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "steel",
+    "size_mm": 30,
+    "estimated_cost_usd": 3.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0094",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0095",
+    "name": "Stepper Motor Model 11",
+    "category": "motor",
+    "description": "Stepper Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "copper",
+    "size_mm": 40,
+    "estimated_cost_usd": 6.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0095",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0096",
+    "name": "Servo Motor Model 12",
+    "category": "motor",
+    "description": "Servo Motor designed for general electronics and engineering projects. Suitable for applications related to motor, motion, actuator.",
+    "voltage_min_v": 3,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 50,
+    "estimated_cost_usd": 12.0,
+    "keywords": [
+      "motor",
+      "motion",
+      "actuator",
+      "rotation"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0096",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0097",
+    "name": "Push Button Switch Model 1",
+    "category": "switch",
+    "description": "Push Button Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.2,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0097",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0098",
+    "name": "Toggle Switch Model 2",
+    "category": "switch",
+    "description": "Toggle Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "metal",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.5,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0098",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0099",
+    "name": "Slide Switch Model 3",
+    "category": "switch",
+    "description": "Slide Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0099",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0100",
+    "name": "Limit Switch Model 4",
+    "category": "switch",
+    "description": "Limit Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "metal",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.2,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0100",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0101",
+    "name": "Push Button Switch Model 5",
+    "category": "switch",
+    "description": "Push Button Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.5,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0101",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0102",
+    "name": "Toggle Switch Model 6",
+    "category": "switch",
+    "description": "Toggle Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "metal",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0102",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0103",
+    "name": "Slide Switch Model 7",
+    "category": "switch",
+    "description": "Slide Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.2,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0103",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0104",
+    "name": "Limit Switch Model 8",
+    "category": "switch",
+    "description": "Limit Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "metal",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.5,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0104",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0105",
+    "name": "Push Button Switch Model 9",
+    "category": "switch",
+    "description": "Push Button Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0105",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0106",
+    "name": "Toggle Switch Model 10",
+    "category": "switch",
+    "description": "Toggle Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "metal",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.2,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0106",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0107",
+    "name": "Slide Switch Model 11",
+    "category": "switch",
+    "description": "Slide Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "plastic",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.5,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0107",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0108",
+    "name": "Limit Switch Model 12",
+    "category": "switch",
+    "description": "Limit Switch designed for general electronics and engineering projects. Suitable for applications related to switch, input, control.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 24,
+    "material": "metal",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "switch",
+      "input",
+      "control",
+      "mechanical"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0108",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0109",
+    "name": "Pin Header Model 1",
+    "category": "connector",
+    "description": "Pin Header designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "copper",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0109",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0110",
+    "name": "Screw Terminal Model 2",
+    "category": "connector",
+    "description": "Screw Terminal designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "plastic",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.4,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0110",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0111",
+    "name": "JST Connector Model 3",
+    "category": "connector",
+    "description": "JST Connector designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "copper",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0111",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0112",
+    "name": "USB Connector Model 4",
+    "category": "connector",
+    "description": "USB Connector designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "plastic",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0112",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0113",
+    "name": "Pin Header Model 5",
+    "category": "connector",
+    "description": "Pin Header designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "copper",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.4,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0113",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0114",
+    "name": "Screw Terminal Model 6",
+    "category": "connector",
+    "description": "Screw Terminal designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0114",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0115",
+    "name": "JST Connector Model 7",
+    "category": "connector",
+    "description": "JST Connector designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "copper",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0115",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0116",
+    "name": "USB Connector Model 8",
+    "category": "connector",
+    "description": "USB Connector designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "plastic",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.4,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0116",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0117",
+    "name": "Pin Header Model 9",
+    "category": "connector",
+    "description": "Pin Header designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "copper",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0117",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0118",
+    "name": "Screw Terminal Model 10",
+    "category": "connector",
+    "description": "Screw Terminal designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "plastic",
+    "size_mm": 5,
+    "estimated_cost_usd": 0.1,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0118",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0119",
+    "name": "JST Connector Model 11",
+    "category": "connector",
+    "description": "JST Connector designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "copper",
+    "size_mm": 10,
+    "estimated_cost_usd": 0.4,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0119",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0120",
+    "name": "USB Connector Model 12",
+    "category": "connector",
+    "description": "USB Connector designed for general electronics and engineering projects. Suitable for applications related to connector, wiring, electrical.",
+    "voltage_min_v": 0,
+    "voltage_max_v": 30,
+    "material": "plastic",
+    "size_mm": 15,
+    "estimated_cost_usd": 1.0,
+    "keywords": [
+      "connector",
+      "wiring",
+      "electrical",
+      "connection"
+    ],
+    "source_type": "synthetic",
+    "source_reference": "synthetic://smart-component-search/COMP-0120",
+    "usage_permission": "Synthetic educational dataset generated for this project."
+  },
+  {
+    "id": "COMP-0121",
+    "name": "Test Temperature Sensor",
+    "category": "sensor",
+    "description": "Low-cost temperature sensor for 5V electronics projects.",
+    "voltage_min_v": 3.3,
+    "voltage_max_v": 5.0,
+    "material": "semiconductor",
+    "size_mm": 12.0,
+    "estimated_cost_usd": 1.99,
+    "keywords": [
+      "temperature",
+      "sensor",
+      "5V",
+      "cheap"
+    ],
+    "source_type": "user-added",
+    "source_reference": "synthetic://test-temperature-sensor",
+    "usage_permission": "Synthetic educational test record"
+  }
+]
